@@ -1,0 +1,10 @@
+{
+    "fd": "firefox-dev",
+    "py": "python hi.py",
+    "cli": "python automation_cli.py",
+    "nauti": "nautilus .",
+    "openai": "python openai.py",
+    "pwd" : " pwd",
+    "open" : "python open_filemanager.py",
+    "run" : ""
+}
